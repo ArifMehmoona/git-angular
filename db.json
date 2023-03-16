@@ -2,27 +2,27 @@
   "articles": [
     {
       "id": 1,
-      "titolo": "Blur",
+      "titolo": ".",
       "url": "https://github.com/ArifMehmoona/git-angular/edit/main/README.md",
-      "like": 2020
+      "like": 1
     },
     {
       "id": 2,
-      "titolo": "Ghost",
-      "url": "Confetti",
-      "like": 2020
+      "titolo": "boh",
+      "url": "https://it.crazygames.com/gioco/uno-online",
+      "like": 2
     },
     {
       "id": 3,
-      "titolo": "Counting Stars",
-      "url": "OneRepublic",
-      "like": 2013
+      "titolo": "ciao",
+      "url": "https://classroom.google.com/c/NTYyMjQwMTMzOTE4/a/NTk2MjM3ODc5MTE2/details",
+      "like": 3
     },
     {
       "id": 4,
-      "titolo": "Crazy",
-      "url": "Bazzi",
-      "like": 2020
+      "titolo": ".",
+      "url": "https://www.google.com/search?q=wikipedia&oq=wiki&aqs=chrome.1.69i57j0i271l3.2614j0j1&sourceid=chrome&ie=UTF-8",
+      "like": 4
     }    
   ]
 }
